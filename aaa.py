@@ -102,6 +102,6 @@ with open('test.json', 'w') as test:
 cfFile = 'gui-config.json'
 updateCf(cfFile, serverList)
 
-print "sleeping... 5s"
-time.sleep(5)
+print "sleeping... 3s"
+time.sleep(3)
 print "bye"
